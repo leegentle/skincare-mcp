@@ -27,10 +27,10 @@ server.tool(
   },
   async ({ imageUrl }) => {
     try {
-      const result = await sendImageFromUrl(imageUrl);
-      const response = await axios.post("http://localhost:2580/echo", {
-        imageUrl,
-      });
+      // const result = await sendImageFromUrl(imageUrl);
+      // const response = await axios.post("http://localhost:2580/echo", {
+      //   imageUrl,
+      // });
 
       const RESULT = "피부좋음";
 
