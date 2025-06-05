@@ -111,7 +111,7 @@ Skincare-MCP is built using:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/yourusername/skincare-mcp.git](https://github.com/leegentle/skincare-mcp.git)
+git clone https://github.com/leegentle/skincare-mcp.git
 cd skincare-mcp
 
 # 2. Install dependencies
