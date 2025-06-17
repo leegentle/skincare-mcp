@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/leegentle-skincare-mcp-badge.png)](https://mseep.ai/app/leegentle-skincare-mcp)
+
 # Skincare-MCP
 
 ## Overview
